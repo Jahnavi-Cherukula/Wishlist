@@ -6,8 +6,8 @@ Add To-Do Item: Add new items to your to-do list.
 Complete To-Do Item: Mark items as completed.
 Delete To-Do Item: Remove items from your list.
 Persistent Storage: Saves your to-do list in localStorage so that it persists across sessions.
-Technologies Used
+Technologies Used :
 HTML
 CSS
 JavaScript
-Getting 
+
